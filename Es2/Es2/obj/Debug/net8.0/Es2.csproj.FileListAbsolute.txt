@@ -1,0 +1,14 @@
+C:\Users\Abel\Desktop\corso-be\Es2\Es2\bin\Debug\net8.0\Es2.exe
+C:\Users\Abel\Desktop\corso-be\Es2\Es2\bin\Debug\net8.0\Es2.deps.json
+C:\Users\Abel\Desktop\corso-be\Es2\Es2\bin\Debug\net8.0\Es2.runtimeconfig.json
+C:\Users\Abel\Desktop\corso-be\Es2\Es2\bin\Debug\net8.0\Es2.dll
+C:\Users\Abel\Desktop\corso-be\Es2\Es2\bin\Debug\net8.0\Es2.pdb
+C:\Users\Abel\Desktop\corso-be\Es2\Es2\obj\Debug\net8.0\Es2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abel\Desktop\corso-be\Es2\Es2\obj\Debug\net8.0\Es2.AssemblyInfoInputs.cache
+C:\Users\Abel\Desktop\corso-be\Es2\Es2\obj\Debug\net8.0\Es2.AssemblyInfo.cs
+C:\Users\Abel\Desktop\corso-be\Es2\Es2\obj\Debug\net8.0\Es2.csproj.CoreCompileInputs.cache
+C:\Users\Abel\Desktop\corso-be\Es2\Es2\obj\Debug\net8.0\Es2.dll
+C:\Users\Abel\Desktop\corso-be\Es2\Es2\obj\Debug\net8.0\refint\Es2.dll
+C:\Users\Abel\Desktop\corso-be\Es2\Es2\obj\Debug\net8.0\Es2.pdb
+C:\Users\Abel\Desktop\corso-be\Es2\Es2\obj\Debug\net8.0\Es2.genruntimeconfig.cache
+C:\Users\Abel\Desktop\corso-be\Es2\Es2\obj\Debug\net8.0\ref\Es2.dll
